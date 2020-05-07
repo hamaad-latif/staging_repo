@@ -1,0 +1,144 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.42.1",
+  "hash": "ddfa6e816ef9ca4df780",
+  "publicPath": "/static/",
+  "outputPath": "G:\\MC2020\\mc2019test\\build\\static",
+  "assetsByChunkName": {
+    "mc2019test": [
+      "mc2019test.module.js",
+      "mc2019test.650636372afe3086ced2.hot-update.js"
+    ],
+    "vendors~archive": "vendors~archive.module.js"
+  },
+  "assets": [
+    {
+      "name": "650636372afe3086ced2.hot-update.json",
+      "size": 52,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/Montserrat-Bold.ttf",
+      "size": 244468,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Montserrat-Bold.woff",
+      "size": 112872,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/pattern-tile-green.svg",
+      "size": 74467,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/pattern-tile-light-fade.svg",
+      "size": 95727,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "mc2019test.650636372afe3086ced2.hot-update.js",
+      "size": 13591,
+      "chunks": [
+        "mc2019test"
+      ],
+      "chunkNames": [
+        "mc2019test"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "mc2019test.module.js",
+      "size": 17183662,
+      "chunks": [
+        "mc2019test"
+      ],
+      "chunkNames": [
+        "mc2019test"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "vendors~archive.module.js",
+      "size": 87771,
+      "chunks": [
+        "vendors~archive"
+      ],
+      "chunkNames": [
+        "vendors~archive"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "mc2019test": {
+      "chunks": [
+        "mc2019test"
+      ],
+      "assets": [
+        "mc2019test.module.js",
+        "mc2019test.650636372afe3086ced2.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "mc2019test": {
+      "chunks": [
+        "mc2019test"
+      ],
+      "assets": [
+        "mc2019test.module.js",
+        "mc2019test.650636372afe3086ced2.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "archive": {
+      "chunks": [
+        "vendors~archive"
+      ],
+      "assets": [
+        "vendors~archive.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
