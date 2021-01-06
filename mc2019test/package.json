@@ -22,7 +22,7 @@
         "@frontity/mars-theme": "./packages/mars-theme",
         "@frontity/tiny-router": "^1.1.1",
         "@frontity/wp-source": "^1.7.0",
-        "axios": "^0.19.2",
+        "axios": "^0.21.1",
         "frontity": "^1.5.2",
         "frontity-chakra-theme": "0.0.2",
         "frontity-contact-form-7": "^0.1.4",
