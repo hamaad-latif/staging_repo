@@ -27,7 +27,7 @@
         "frontity-chakra-theme": "0.0.2",
         "frontity-contact-form-7": "^0.1.4",
         "grommet": "^2.13.0",
-        "node-sass": "^4.14.0",
+        "node-sass": "^7.0.0",
         "react-animated-slider": "^2.0.0",
         "react-awesome-slider": "^4.1.0",
         "styled-components": "^5.1.0"
